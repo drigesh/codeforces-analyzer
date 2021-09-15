@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/codeforces-analyzer/static/css/main.51c5feab.chunk.css",
-    "main.js": "/codeforces-analyzer/static/js/main.0ee7a201.chunk.js",
-    "main.js.map": "/codeforces-analyzer/static/js/main.0ee7a201.chunk.js.map",
+    "main.css": "/codeforces-analyzer/static/css/main.415d9d9e.chunk.css",
+    "main.js": "/codeforces-analyzer/static/js/main.a62aca76.chunk.js",
+    "main.js.map": "/codeforces-analyzer/static/js/main.a62aca76.chunk.js.map",
     "runtime-main.js": "/codeforces-analyzer/static/js/runtime-main.0d5c6e90.js",
     "runtime-main.js.map": "/codeforces-analyzer/static/js/runtime-main.0d5c6e90.js.map",
-    "static/js/2.89f92b8d.chunk.js": "/codeforces-analyzer/static/js/2.89f92b8d.chunk.js",
-    "static/js/2.89f92b8d.chunk.js.map": "/codeforces-analyzer/static/js/2.89f92b8d.chunk.js.map",
+    "static/js/2.6751771a.chunk.js": "/codeforces-analyzer/static/js/2.6751771a.chunk.js",
+    "static/js/2.6751771a.chunk.js.map": "/codeforces-analyzer/static/js/2.6751771a.chunk.js.map",
     "index.html": "/codeforces-analyzer/index.html",
-    "static/css/main.51c5feab.chunk.css.map": "/codeforces-analyzer/static/css/main.51c5feab.chunk.css.map",
-    "static/js/2.89f92b8d.chunk.js.LICENSE.txt": "/codeforces-analyzer/static/js/2.89f92b8d.chunk.js.LICENSE.txt"
+    "static/css/main.415d9d9e.chunk.css.map": "/codeforces-analyzer/static/css/main.415d9d9e.chunk.css.map",
+    "static/js/2.6751771a.chunk.js.LICENSE.txt": "/codeforces-analyzer/static/js/2.6751771a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0d5c6e90.js",
-    "static/js/2.89f92b8d.chunk.js",
-    "static/css/main.51c5feab.chunk.css",
-    "static/js/main.0ee7a201.chunk.js"
+    "static/js/2.6751771a.chunk.js",
+    "static/css/main.415d9d9e.chunk.css",
+    "static/js/main.a62aca76.chunk.js"
   ]
 }
